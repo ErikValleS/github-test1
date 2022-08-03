@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Chicken
 Caesar salad
 Pizza
-=======
 Amadeus
 Beastards
 Titanic
->>>>>>> movies
